@@ -4,9 +4,9 @@
 <body>
 
 <?php
-
-echo <h1> "my first time trying PHP!" </h1>;
-
+<h1>
+echo  "my first time trying PHP!";
+</h1>
 //this is me testing this site.
 
 ?>
